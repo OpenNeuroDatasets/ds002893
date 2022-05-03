@@ -31,6 +31,7 @@ with an analog pass band of 0.01 to 60 Hz (SA Instrumentation, San Diego). Input
 by careful scalp preparation.
 
 **Task conditions:**
+
 - **Focus Visual (FV):** participants pressed the response button only in response to target visual stimuli.
 - **Focus Auditory (FA):** participants pressed the same button only in response to target auditory stimuli.
 - **Shift Focus (SF):** participants shifted between performing the FV and FA tasks as cued by the preceding
