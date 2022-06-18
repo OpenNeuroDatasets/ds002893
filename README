@@ -66,5 +66,5 @@ During the running of these curation notebooks information about the status was 
 using the HEDLogger. The output of the logging process is in code/curation_logs.
 
 Updated versions of the curation notebooks can be found at:
-https://github.com/hed-standard/hed-examples/tree/main/hedcode/jupyter_notebooks/dataset_specific_processing/sternberg
+https://github.com/hed-standard/hed-examples/tree/main/hedcode/jupyter_notebooks/dataset_specific_processing/attention_shift.
 
